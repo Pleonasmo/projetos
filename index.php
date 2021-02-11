@@ -35,7 +35,7 @@
             </div>
             <div class="post">
                 <h3 class="titulo-post">Afinal, Capitu traiu ou não traiu Bentinho?</h3>
-                <img class= "img-post" src="https://lh3.googleusercontent.com/proxy/QwKFoZb0bpqn1V6jYVrXU2lYEg6eiaPOSJkhMwcV3FpfSw2Bm9aQjpfd6qmXBcuZ42OKYzMA4C4qkt0ahgNjXxb5b-FWe_Bfrf5eBDsFY-aauQXV1Q4" alt="">
+                <img class= "img-post" src="https://1.bp.blogspot.com/-6Ml4AhepPcc/U__LvAEE7NI/AAAAAAAAGvo/d1fYl4Q0fqA/s1600/machadodeassis.png" alt="">
                 <p class="ver"><a href="">Visualizar este tópico</a></p>
             </div>
         </div>
